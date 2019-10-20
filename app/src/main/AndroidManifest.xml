@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cgpa">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="My GPA"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Grade_8"></activity>
+        <activity android:name=".Grade_7" />
+        <activity android:name=".Grade_6" />
+        <activity android:name=".Grade_5" />
+        <activity android:name=".Grade_4" />
+        <activity android:name=".Grade_3" />
+        <activity android:name=".Grade_2" />
+        <activity android:name=".Grade_1" />
+        <activity android:name=".GPA_8" />
+        <activity android:name=".GPA_7" />
+        <activity android:name=".GPA_6" />
+        <activity android:name=".GPA_5" />
+        <activity android:name=".GPA_4" />
+        <activity android:name=".GPA_3" />
+        <activity android:name=".GPA_2" />
+        <activity android:name=".GPA_1" />
+        <activity android:name=".Sem_8" />
+        <activity android:name=".Sem_7" />
+        <activity android:name=".Sem_6" />
+        <activity android:name=".Sem_5" />
+        <activity android:name=".Sem_4" />
+        <activity android:name=".Sem_3" />
+        <activity android:name=".Sem_2" />
+        <activity android:name=".Sem_1" />
+        <activity android:name=".GPA_Home" />
+        <activity android:name=".CGPA_Home" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
