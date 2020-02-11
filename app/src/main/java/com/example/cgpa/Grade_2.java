@@ -54,22 +54,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a1 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a1 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a1 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a1 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a1 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a1 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a1 = 0;
                         break;
                 }
@@ -86,22 +86,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a2 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a2 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a2 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a2 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a2 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a2 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a2 = 0;
                         break;
                 }
@@ -119,22 +119,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a3 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a3 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a3 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a3 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a3 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a3 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a3 = 0;
                         break;
                 }
@@ -151,22 +151,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a4 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a4 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a4 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a4 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a4 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a4 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a4 = 0;
                         break;
                 }
@@ -183,22 +183,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a5 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a5 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a5 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a5 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a5 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a5 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a5 = 0;
                         break;
                 }
@@ -215,22 +215,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a6 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a6 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a6 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a6 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a6 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a6 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a6 = 0;
                         break;
                 }
@@ -247,22 +247,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a7 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a7 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a7 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a7 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a7 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a7 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a7 = 0;
                         break;
                 }
@@ -279,22 +279,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a8 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a8 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a8 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a8 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a8 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a8 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a8 = 0;
                         break;
                 }
@@ -311,22 +311,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a9 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a9 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a9 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a9 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a9 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a9 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a9 = 0;
                         break;
                 }
@@ -343,22 +343,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a10 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a10 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a10 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a10 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a10 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a10 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a10 = 0;
                         break;
                 }
@@ -375,22 +375,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a11 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a11 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a11 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a11 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a11 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a11 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a11 = 0;
                         break;
                 }
@@ -407,22 +407,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         a12 = 10;
                         break;
-                    case 2:
+                    case 1:
                         a12 = 9;
                         break;
-                    case 3:
+                    case 2:
                         a12 = 8;
                         break;
-                    case 4:
+                    case 3:
                         a12 = 7;
                         break;
-                    case 5:
+                    case 4:
                         a12 = 6;
                         break;
-                    case 6:
+                    case 5:
                         a12 = 5;
                         break;
-                    case 7:
+                    case 6:
                         a12 = 0;
                         break;
                 }
@@ -439,22 +439,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         p1 = 10;
                         break;
-                    case 2:
+                    case 1:
                         p1 = 9;
                         break;
-                    case 3:
+                    case 2:
                         p1 = 8;
                         break;
-                    case 4:
+                    case 3:
                         p1 = 7;
                         break;
-                    case 5:
+                    case 4:
                         p1 = 6;
                         break;
-                    case 6:
+                    case 5:
                         p1 = 5;
                         break;
-                    case 7:
+                    case 6:
                         p1 = 0;
                         break;
                 }
@@ -471,22 +471,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         p2 = 10;
                         break;
-                    case 2:
+                    case 1:
                         p2 = 9;
                         break;
-                    case 3:
+                    case 2:
                         p2 = 8;
                         break;
-                    case 4:
+                    case 3:
                         p2 = 7;
                         break;
-                    case 5:
+                    case 4:
                         p2 = 6;
                         break;
-                    case 6:
+                    case 5:
                         p2 = 5;
                         break;
-                    case 7:
+                    case 6:
                         p2 = 0;
                         break;
                 }
@@ -503,22 +503,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         p3 = 10;
                         break;
-                    case 2:
+                    case 1:
                         p3 = 9;
                         break;
-                    case 3:
+                    case 2:
                         p3 = 8;
                         break;
-                    case 4:
+                    case 3:
                         p3 = 7;
                         break;
-                    case 5:
+                    case 4:
                         p3 = 6;
                         break;
-                    case 6:
+                    case 5:
                         p3 = 5;
                         break;
-                    case 7:
+                    case 6:
                         p3 = 0;
                         break;
                 }
@@ -535,22 +535,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         p4 = 10;
                         break;
-                    case 2:
+                    case 1:
                         p4 = 9;
                         break;
-                    case 3:
+                    case 2:
                         p4 = 8;
                         break;
-                    case 4:
+                    case 3:
                         p4 = 7;
                         break;
-                    case 5:
+                    case 4:
                         p4 = 6;
                         break;
-                    case 6:
+                    case 5:
                         p4 = 5;
                         break;
-                    case 7:
+                    case 6:
                         p4 = 0;
                         break;
                 }
@@ -567,22 +567,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         p5 = 10;
                         break;
-                    case 2:
+                    case 1:
                         p5 = 9;
                         break;
-                    case 3:
+                    case 2:
                         p5 = 8;
                         break;
-                    case 4:
+                    case 3:
                         p5 = 7;
                         break;
-                    case 5:
+                    case 4:
                         p5 = 6;
                         break;
-                    case 6:
+                    case 5:
                         p5 = 5;
                         break;
-                    case 7:
+                    case 6:
                         p5 = 0;
                         break;
                 }
@@ -599,22 +599,22 @@ public class Grade_2 extends AppCompatActivity {
                     case 0:
                         p6 = 10;
                         break;
-                    case 2:
+                    case 1:
                         p6 = 9;
                         break;
-                    case 3:
+                    case 2:
                         p6 = 8;
                         break;
-                    case 4:
+                    case 3:
                         p6 = 7;
                         break;
-                    case 5:
+                    case 4:
                         p6 = 6;
                         break;
-                    case 6:
+                    case 5:
                         p6 = 5;
                         break;
-                    case 7:
+                    case 6:
                         p6 = 0;
                         break;
                 }
